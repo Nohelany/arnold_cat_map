@@ -1,0 +1,10 @@
+# Python byte‐compiled files
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Imágenes generadas por el script
+transformed_*.jpg
+recuperada.jpg
